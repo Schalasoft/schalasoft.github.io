@@ -37,6 +37,11 @@
   <changefreq>always</changefreq>
 </url>
 <url>
+  <loc>http://www.schalasoft.com/ExpressGolfScorecard.html</loc>
+  <lastmod>2014-05-01T02:41:20+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
   <loc>http://www.schalasoft.com/AttendanceRecorder.html</loc>
   <lastmod>2014-05-01T02:41:20+00:00</lastmod>
   <changefreq>always</changefreq>
@@ -53,6 +58,11 @@
 </url>
 <url>
   <loc>http://www.schalasoft.com/RouteRecorderTOS.html</loc>
+  <lastmod>2014-05-06T16:05:46+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://www.schalasoft.com/ExpressGolfScorecardTOS.html</loc>
   <lastmod>2014-05-06T16:05:46+00:00</lastmod>
   <changefreq>always</changefreq>
 </url>
