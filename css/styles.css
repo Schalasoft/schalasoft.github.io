@@ -6,11 +6,11 @@ img											{border:0}
 h1,h2,h3,h4,h5,h6							{font-weight:normal}
 li											{list-style:none}
 
-#head										{width:100%; height:800px; float:left; background:url(../images/headBg.png) repeat-x}
-.head_height								{height:478px}
+#head										{width:100%; float:left; background:url(../images/headBg.png) repeat-x}
+.head_height								{height:550px}
 .head_pad									{padding-bottom:30px}
 #head_cen									{width:800px; margin:0 auto}
-#head_sup									{width:800px; float:left; position:relative}
+#head_sup									{width:1000px; float:left; position:relative}
 #head p.search								{width:auto; margin-top:12px; float:right; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; font-size:11px; color:#999999; line-height:25px; letter-spacing:1px}
 #head p.search label						{width:auto; margin-right:10px; float:left}
 #head p.search input.txt					{width:135px; height:21px; margin-right:7px; float:left; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; font-size:12px; color:#2c2d2c; border:0; background:url(../images/searchbg.png) no-repeat}
@@ -18,7 +18,7 @@ li											{list-style:none}
 #head p.search input.btn:active				{background-position:2px 2px}
 h1.logo										{width:160px; height:36px; margin-top:112px; float:left; background:url(../images/logo.png) no-repeat}
 h1.logo a									{width:100%; height:100%; float:left; text-indent:-9999px}
-#head ul									{width:400px; height:44px; margin-top:58px; float:right}
+#head ul									{width:500px; height:44px; margin-top:58px; float:right}
 #head ul li									{width:auto; margin-left:1px; float:left; font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#5f5f5f; line-height:35px; text-transform:uppercase}
 #head ul li:first-child						{margin:0}
 #head ul li	a,#head ul li a.active			{width:auto; height:42px; padding:0 23px; float:left; color:inherit; background:#252525}
@@ -27,8 +27,8 @@ img.ban_bg									{width:auto; float:left; position:absolute; top:139px; left:-
 
 #content									{width:100%; padding-bottom:36px; float:left; background:#ffffff url(../images/contentBg.png) repeat-x}
 #content_cen								{width:800px; margin:0 auto}
-#content_sup								{width:800px; height:500px; float:left; position:relative}
-#ct_pan										{width:100%; height:120px; margin-top:94px; float:left; position:relative; font-family:Tahoma, Geneva, sans-serif; font-size:12px; color:#999999; line-height:16px; background:#3b3b3b}
+#content_sup								{width:800px; float:left; position:relative}
+#ct_pan										{width:100%; height:200px; margin-top:94px; float:left; position:relative; font-family:Tahoma, Geneva, sans-serif; font-size:12px; color:#999999; line-height:16px; background:#3b3b3b}
 #ct_pan p									{width:252px; margin:34px 52px 0 34px; float:left}
 #ct_pan p a									{color:#31a1ff; text-transform:uppercase}
 #ct_pan ul									{width:230px; margin-top:26px; float:left}
