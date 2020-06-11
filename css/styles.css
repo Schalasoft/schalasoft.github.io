@@ -98,6 +98,15 @@ ul#infoPan li p.descrip						{margin-top:13px; font-size:12px; line-height:16px;
 #foot p										{width:100%; margin-top:10px; float:left; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; font-size:14px; color:#767676; line-height:18px; text-align:center}
 #foot p	a									{color:inherit}
 
+#mod_pan									{width:100%; margin-top:20px; float:left}
+#mod_pan ul									{width:100%; float:left}
+#mod_pan ul li								{width:325px; height:400px; margin:0 30px; float:left; border-bottom:#c9c9c9 solid 1px}
+#mod_pan ul li:hover						{background:#fbfbfb}
+#mod_pan ul li h5							{width:auto; margin:10px 0 0 10px; float:left; font-family:Arial, Helvetica, sans-serif; font-size:16px; color:#31a1ff}
+#mod_pan ul li p							{width:300px; margin:5px 0 0 10px; float:left; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; font-size:12px; color:#5c5c5c}
+#mod_pan ul li p a							{width:auto; float:left; padding-bottom:10px; color:#31a1ff}
+#mod_pan img								{width:300px; height:300px}
+
 #service_pan								{width:100%; margin-top:20px; float:left}
 #service_pan ul								{width:100%; float:left}
 #service_pan ul li							{width:325px; height:180px; margin:0 30px; float:left; border-bottom:#c9c9c9 solid 1px}
