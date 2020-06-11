@@ -105,7 +105,7 @@ ul#infoPan li p.descrip						{margin-top:13px; font-size:12px; line-height:16px;
 #mod_pan ul li h5							{width:auto; margin:10px 0 0 10px; float:left; font-family:Arial, Helvetica, sans-serif; font-size:16px; color:#31a1ff}
 #mod_pan ul li p							{width:300px; margin:5px 0 0 10px; float:left; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; font-size:12px; color:#5c5c5c}
 #mod_pan ul li p a							{width:auto; float:left; padding-bottom:10px; color:#31a1ff}
-#mod_pan img								{width:300px; height:300px}
+#mod_pan img								{width:325px; height:275px}
 
 #service_pan								{width:100%; margin-top:20px; float:left}
 #service_pan ul								{width:100%; float:left}
